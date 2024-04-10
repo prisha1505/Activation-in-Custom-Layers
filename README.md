@@ -1,1 +1,1 @@
-# Activation-in-Custom-Layers
+# Building custom layers by adding an activation parameter.
